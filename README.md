@@ -7,7 +7,7 @@
 <li><a href="https://www.w3schools.com/css/">CSS</a></li>
 
 <h1>See the project on the air 🚀</h1>
-<a href="https://risingus.github.io/Neon-Blinking-Text/">Neon Blinking Sign</a>
+<a href="https://risingus.github.io/Neon-Blinking-Sign/">Neon Blinking Sign</a>
 
 <h1></h1>
 <p>Coded with ❤ by <a href="https://www.linkedin.com/in/gustavo-lima-44b425b1/">Gustavo Lima</a></p>
